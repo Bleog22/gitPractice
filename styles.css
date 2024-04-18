@@ -1,0 +1,21 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Mission\ GT-R\ Condensed\ Hollow\ Italic.ttf);
+}
+body{
+    background-color: black;
+}
+
+h1 {
+    font-family: myFirstFont;
+    text-align: center;
+    color: white;
+}
+#gtrImg{
+    width: 100%;
+}
+#gtrDiv{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
